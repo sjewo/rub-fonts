@@ -1,0 +1,15 @@
+\ProvidesFile{ly1frst.fd}[RubFlama]
+
+\DeclareFontFamily{LY1}{frst}{}
+\DeclareFontShape{LY1}{frst}{m}{n}{ <-> frstr8t}{}
+\DeclareFontShape{LY1}{frst}{m}{it}{ <-> frstri8t}{}
+\DeclareFontShape{LY1}{frst}{b}{n}{ <-> frstb8t}{}
+\DeclareFontShape{LY1}{frst}{b}{it}{ <-> frstbi8t}{}
+\DeclareFontShape{LY1}{frst}{bx}{n}{ <-> frstb8t}{}
+\DeclareFontShape{LY1}{frst}{bx}{it}{ <-> frstbi8t}{}
+\DeclareFontShape{LY1}{frst}{m}{sc}{ <-> frstrsc8t}{}
+\DeclareFontShape{LY1}{frst}{b}{sc}{ <-> frstbsc8t}{}
+
+
+\endinput
+

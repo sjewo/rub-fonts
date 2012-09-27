@@ -1,0 +1,17 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{rubflama}[2009/12/01 Rub Flama]
+\RequirePackage[LY1]{fontenc}
+
+\renewcommand*{\sfdefault}{frf}
+
+\DeclareOption{default}{\renewcommand{\familydefault}{\sfdefault}}
+\ExecuteOptions{}
+
+% Richtige Anführungszeichen
+\DeclareTextSymbol{\glqq}{LY1}      {132}
+\DeclareTextSymbol{\grqq}{LY1}      {147}
+\DeclareTextSymbol{\flqq}{LY1}      {171}
+\DeclareTextSymbol{\frqq}{LY1}      {187}
+\pdfglyphtounicode{.}{002C}
+\ProcessOptions*
+\endinput
