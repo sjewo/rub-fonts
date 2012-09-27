@@ -11,7 +11,7 @@ Dieses Skript macht die TrueType-Dateien \n der Schriften Rub Scala und Rub Flam
 
 OPTIONS:
    -h      Show this message
-   -f      Ordner mit den Schriftdatein
+   -f      Ordner mit den Schriftdateien
    -t      Zielordner (in der Regel: ~/.texfm)
 EOF
 }
