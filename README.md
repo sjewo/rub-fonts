@@ -3,7 +3,7 @@ rub-fonts
 
 LaTeX support files for Ruhr-University Corporate Design Fonts (Linux only)
 
-Dieses Skript macht (hoffentlich) die TrueType-Dateien der Schriften Rub Scala und Rub Flama unter LaTeX verfügbar.
+Dieses Skript macht (hoffentlich) die TrueType-Dateien der Schriften "Rub Scala" und "Rub Flama" unter LaTeX verfügbar.
 
 Bisher habe ich es nur unter Arch Linux getestet. Es ist daher ratsam vor der Verwendung den Order ~/.texmf-var bzw. ~/.texlive zu sichern!
 
